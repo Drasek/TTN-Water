@@ -26,6 +26,8 @@ Hardware list:
 
 ![Dataconnection to TTN](https://raw.githubusercontent.com/Freie-Netzwerker/TTN-Water/master/images/ttn_water006.jpg "Dataconnection to TTN")
 
+![Hardware installed on the Bridge](https://raw.githubusercontent.com/Freie-Netzwerker/TTN-Water/master/images/ttn_water007.jpg "Hardware installed on the Bridge")
+
 Software
 --------
 
